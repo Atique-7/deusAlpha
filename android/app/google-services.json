@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "954692033199",
+    "project_id": "productivitymonster-ba44b",
+    "storage_bucket": "productivitymonster-ba44b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954692033199:android:7d92229ab4b259e2d5125a",
+        "android_client_info": {
+          "package_name": "com.atique.productivity_monster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954692033199-4f1ldahpl3fgbjs0h5l5b8ia3dnhag34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atique.productivity_monster",
+            "certificate_hash": "cb50929cfeffa7bb92dfe28e2e4f39f47725c15f"
+          }
+        },
+        {
+          "client_id": "954692033199-2f8jv3ma70pc843pbmf310lb8ieohvs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTBlat3EhKn6vzmz-TQUbbPssqdWDwYks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954692033199-2f8jv3ma70pc843pbmf310lb8ieohvs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
